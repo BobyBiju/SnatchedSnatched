@@ -1,0 +1,93 @@
+{
+  "project_info": {
+    "project_number": "598618405547",
+    "firebase_url": "https://snatched-2-default-rtdb.firebaseio.com",
+    "project_id": "snatched-2",
+    "storage_bucket": "snatched-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598618405547:android:7f6787cedcb167046c55ee",
+        "android_client_info": {
+          "package_name": "com.example.snatcheddemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "598618405547-21pjldnt1ad6s1ee6v27oe0lpclvraat.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.snatcheddemo",
+            "certificate_hash": "6d763530e5e21927227772feb5dbe92074924bbb"
+          }
+        },
+        {
+          "client_id": "598618405547-5nq9kb30941r0lbdp80n8ucqpvso309n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.snatcheddemo",
+            "certificate_hash": "59c623d5145380584de9589d5d4439178ee00cad"
+          }
+        },
+        {
+          "client_id": "598618405547-nq4omnhdte1c2vfhuon5r2k1eajbkr4k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.snatcheddemo",
+            "certificate_hash": "6955e8f7bffb851ede50c351012416d7805aedbf"
+          }
+        },
+        {
+          "client_id": "598618405547-5du959ib9m9beot8na1rg371k04vhnu3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIdqrl7NPwo8vw8or_rAjYpMmTL32lqzk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "598618405547-5du959ib9m9beot8na1rg371k04vhnu3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598618405547:android:ff436a81110c48966c55ee",
+        "android_client_info": {
+          "package_name": "com.example.snatchedmerchant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "598618405547-5du959ib9m9beot8na1rg371k04vhnu3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIdqrl7NPwo8vw8or_rAjYpMmTL32lqzk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "598618405547-5du959ib9m9beot8na1rg371k04vhnu3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
